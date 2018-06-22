@@ -132,3 +132,20 @@
   margin: 0 auto;
   display: block;
 }
+#boxes
+{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#boxes .box
+{
+  text-align: center;
+  width: 30%;
+  padding:100px;
+}
+
+#boxes .box img
+{
+  width: 90px;
+}
